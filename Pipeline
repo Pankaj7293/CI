@@ -1,0 +1,6 @@
+your-project/
+├── src/
+├── tests/
+└── .github/
+    └── workflows/
+        └── ci.yml
